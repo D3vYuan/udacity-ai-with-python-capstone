@@ -1,0 +1,7 @@
+checkpoint_input_units = "input_units"
+checkpoint_output_units = "output_units"
+checkpoint_model_state_dict = "model_state_dict"
+checkpoint_model_classifier = "classifier"
+checkpoint_model_classes_to_indices_map = "classes_indices_map"
+checkpoint_optimizer_state_dict = "optimizer_state_dict"
+checkpoint_model_training_epochs = "training_epochs"
